@@ -10,7 +10,7 @@ Aplicação web onde o usuário precisa adivinhar um número entre 0 e 300 que f
   <h2> <a href='https://tacky-blade.surge.sh/' target='_blank'> Acesse aqui </a> </h2>
 </div>
 
-## Visualização mobile
+## Visualização
 
 <div align="center"> 
 
