@@ -13,7 +13,9 @@ Aplicação web onde o usuário precisa adivinhar um número entre 0 e 300 que f
 ## Visualização mobile
 
 <div align="center"> 
-![anigif](https://user-images.githubusercontent.com/81184973/140067282-f4e32f9d-8c2d-4a92-9330-9deb8bb76f37.gif)
+
+  ![anigif](https://user-images.githubusercontent.com/81184973/140067282-f4e32f9d-8c2d-4a92-9330-9deb8bb76f37.gif)
+
 </div>
 
 
